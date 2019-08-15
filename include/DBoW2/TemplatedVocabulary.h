@@ -10,12 +10,12 @@
 #ifndef __D_T_TEMPLATED_VOCABULARY__
 #define __D_T_TEMPLATED_VOCABULARY__
 
+#include "opencv-common.h"
 #include <algorithm>
 #include <cassert>
 #include <cstdlib>
 #include <fstream>
 #include <numeric>
-#include <opencv2/core.hpp>
 #include <string>
 #include <vector>
 

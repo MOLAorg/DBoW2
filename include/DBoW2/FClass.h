@@ -10,7 +10,7 @@
 #ifndef __D_T_FCLASS__
 #define __D_T_FCLASS__
 
-#include <opencv2/core.hpp>
+#include "opencv-common.h"
 #include <vector>
 #include <string>
 

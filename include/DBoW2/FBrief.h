@@ -10,7 +10,8 @@
 #ifndef __D_T_F_BRIEF__
 #define __D_T_F_BRIEF__
 
-#include <opencv2/core.hpp>
+#include "opencv-common.h"
+
 #include <bitset>
 #include <vector>
 #include <string>
